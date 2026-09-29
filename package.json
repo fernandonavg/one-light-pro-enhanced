@@ -1,0 +1,21 @@
+{
+  "name": "one-light-pro",
+  "displayName": "One Light Pro",
+  "description": "A light VS Code theme inspired by One Dark Pro",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.138.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Light Pro",
+        "uiTheme": "vs",
+        "path": "./themes/One Light Pro-color-theme.json"
+      }
+    ]
+  }
+}
